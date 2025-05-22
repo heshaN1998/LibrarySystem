@@ -1,1 +1,1 @@
-LibraryManagementSystem  with few class and arraylists
+LibraryManagementSystem  with few classes and arraylists
